@@ -1,1 +1,2 @@
 # RussianBotDetection
+### Bachelor thesis project
